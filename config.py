@@ -10,4 +10,6 @@ DEBUG = True
 
 
 # TODO IMPLEMENT DATABASE URL
-SQLALCHEMY_DATABASE_URI = '<Put your local database url>'
+#Already defined in app.py
+#SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:P@ssw0rd123@localhost:5432/artistbookdb4'
+
